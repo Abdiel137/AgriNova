@@ -1,2 +1,3 @@
 # AgriNova
  AgriNova is a proposed data-driven agricultural intelligence platform designed to turn official agricultural statistics into practical, location-specific insights for Rwanda. It will help users explore agricultural indicators by  district, season, and crop, then compare patterns in cultivated area, production, and selected farming practices. 
+ Agricultural statistics can be difficult to translate into timely, local decisions when information is spread across reports, tables, and datasets. Users may need to compare districts, seasons, and crops to identify where productivity is relatively high or low and where further investigation may be useful. AgriNova addresses this information-to-action gap by organising verified data into a single exploratory platform.
