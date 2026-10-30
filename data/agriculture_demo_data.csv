@@ -1,0 +1,13 @@
+province,district,season,crop,cultivated_area_ha,production_tonnes,data_status
+Northern,Burera,Season A,Maize,1200,3600,Synthetic demo data
+Northern,Gicumbi,Season A,Maize,1450,4350,Synthetic demo data
+Southern,Huye,Season A,Beans,900,1080,Synthetic demo data
+Southern,Nyanza,Season B,Maize,1100,3080,Synthetic demo data
+Eastern,Kayonza,Season B,Rice,750,3000,Synthetic demo data
+Eastern,Bugesera,Season A,Beans,1000,1200,Synthetic demo data
+Western,Rubavu,Season C,Potatoes,650,7800,Synthetic demo data
+Western,Nyabihu,Season B,Potatoes,820,9840,Synthetic demo data
+Kigali City,Gasabo,Season A,Vegetables,300,2700,Synthetic demo data
+Kigali City,Kicukiro,Season B,Vegetables,260,2080,Synthetic demo data
+Northern,Musanze,Season C,Beans,780,1014,Synthetic demo data
+Southern,Gisagara,Season C,Maize,1300,3380,Synthetic demo data
